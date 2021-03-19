@@ -4,7 +4,6 @@ import UIKit
 import PlaygroundSupport
 
 // Arrays
-
 func numeroPar(_ number:Int) -> Bool {
     return number % 2 == 0
 }
@@ -24,5 +23,3 @@ for i in arrayNumber {
         print("Es impar: " , i)
     }
 }
-
-XD ESTA ES LA TAREA :V APUNTA NOMAS :V capturasoXD SIP
